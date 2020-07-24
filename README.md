@@ -24,7 +24,7 @@ The training set consists of 28,709 examples.
    * Happy 
    * Sad 
    * Surprise
-   *Neutral
+   * Neutral
   * train(20%)
    * Angry 
    * Disgust 
@@ -32,7 +32,7 @@ The training set consists of 28,709 examples.
    * Happy 
    * Sad 
    * Surprise
-   *Neutral
+   * Neutral
 
 * data is given in csv format.
 * data is converted to images then saved it to train and test folder
