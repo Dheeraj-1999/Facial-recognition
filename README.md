@@ -17,5 +17,31 @@ The training set consists of 28,709 examples.
 
 ### hierchy:
 * Dataset
-  * test
-  * train
+  * test(80%)
+   * Angry 
+   * Disgust 
+   * Fear 
+   * Happy 
+   * Sad 
+   * Surprise
+   *Neutral
+  * train(20%)
+   * Angry 
+   * Disgust 
+   * Fear 
+   * Happy 
+   * Sad 
+   * Surprise
+   *Neutral
+
+* data is given in csv format.
+* data is converted to images then saved it to train and test folder
+* DATA SIZE OF EACH CATEGORY.
+3995 angry images
+436 disgust images
+4097 fear images
+7214 happy images
+4965 neutral images
+4830 sad images
+3171 surprise images
+   
